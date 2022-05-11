@@ -1,0 +1,17 @@
+.square {
+  border-radius: 0px;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, #007bff, #000);
+  color: #fff;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  background-image: linear-gradient(to right, #007bff, #000);
+  color: #fff;
+}
